@@ -1,10 +1,10 @@
 # airgeddon wifi
-[![Version-shield]](https://raw.githubusercontent.com/mrgargsir/wifi/master/CHANGELOG.md)  [![Cryptocurrencies-shield]](https://github.com/mrgargsir/wifi/wiki/Contributing-&-Code-of-Conduct)
+[![Version-shield]](https://raw.githubusercontent.com/mrgargsir/wifi/master/CHANGELOG.md)  
 
 
 > This is a multi-use bash script for Linux systems to audit wireless networks.
 
-![Banner]
+
 
 ---
 
@@ -64,6 +64,7 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 - *VI. Acknowledgments & References*
   - [Hat Tip To]
   - [Inspiration]
+  - [Extra commands]
 
 ---
 
@@ -108,6 +109,7 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 [Contact]: https://github.com/mrgargsir/wifi/wiki/Contact
 [Hat Tip To]: https://github.com/mrgargsir/wifi/wiki/Hat%20Tip%20To
 [Inspiration]: https://github.com/mrgargsir/wifi/wiki/Inspiration
+[Extra commands]: https://github.com/mrgargsir/wifi/wiki/Extra%20commands
 
 [Version-shield]: https://img.shields.io/badge/version-11.50-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Latest version"
 [Bash4.2-shield]: https://img.shields.io/badge/bash-4.2%2B-blue.svg?style=flat-square&colorA=273133&colorB=00db00 "Bash 4.2 or later"
