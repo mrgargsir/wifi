@@ -1,7 +1,5 @@
 # airgeddon wifi
-[![Version-shield]](https://raw.githubusercontent.com/mrgargsir/wifi/master/CHANGELOG.md) [![Bash4.2-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220) [![License-shield]](https://raw.githubusercontent.com/mrgargsir/wifi/master/LICENSE.md) [![Docker-shield]](https://hub.docker.com/r/mrgargsir/wifi/) [![Discord-shield]](https://discord.gg/sQ9dgt9)
-
-[![Paypal-shield]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG) [![Cryptocurrencies-shield]](https://github.com/mrgargsir/wifi/wiki/Contributing-&-Code-of-Conduct)
+[![Version-shield]](https://raw.githubusercontent.com/mrgargsir/wifi/master/CHANGELOG.md)  [![Cryptocurrencies-shield]](https://github.com/mrgargsir/wifi/wiki/Contributing-&-Code-of-Conduct)
 
 
 > This is a multi-use bash script for Linux systems to audit wireless networks.
