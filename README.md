@@ -37,16 +37,12 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 - *III. Getting started*
   - [Installation & Usage]
   - [Options]
-  - [Docker]
-	 - [Linux]
-	 - [Mac OSX]
-	 - [Windows]
+ 
   - [Other Sources]
   - [FAQ & Troubleshooting]
 
 
-- *IV. Learning*
-  - [CWP Certification]
+
 
 
 - *V. Project & Development*
@@ -55,7 +51,7 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 	 - [Plugins Hall of Fame]
   - [Supported Languages]
   - [Contributing & Code of Conduct]
-  - [Merchandising Online Shop]
+  - [Check others Repo]
   - [Changelog]
   - [Disclaimer & License]
   - [Contact]
@@ -63,7 +59,7 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 
 - *VI. Acknowledgments & References*
   - [Hat Tip To]
-  - [Inspiration]
+
   - [Extra commands]
 
 ---
@@ -91,26 +87,22 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 [Known incompatibilities]: https://github.com/mrgargsir/wifi/wiki/Known%20incompatibilities
 [Installation & Usage]: https://github.com/mrgargsir/wifi/wiki/Installation%20&%20Usage
 [Options]: https://github.com/mrgargsir/wifi/wiki/Options
-[Docker]: https://github.com/mrgargsir/wifi/wiki/Docker
-[Linux]: https://github.com/mrgargsir/wifi/wiki/Docker%20Linux
-[Mac OSX]: https://github.com/mrgargsir/wifi/wiki/Docker%20Mac%20OSX
-[Windows]: https://github.com/mrgargsir/wifi/wiki/Docker%20Windows
+
 [Other Sources]: https://github.com/mrgargsir/wifi/wiki/Other%20Sources
 [FAQ & Troubleshooting]: https://github.com/mrgargsir/wifi/wiki/FAQ%20&%20Troubleshooting
-[CWP Certification]: https://github.com/mrgargsir/wifi/wiki/CWP%20Certification
+
 [Plugins system]: https://github.com/mrgargsir/wifi/wiki/Plugins%20System
 [Plugins development]: https://github.com/mrgargsir/wifi/wiki/Plugins%20Development
 [Plugins Hall of Fame]: https://github.com/mrgargsir/wifi/wiki/Plugins%20Hall%20of%20Fame
 [Supported Languages]: https://github.com/mrgargsir/wifi/wiki/Supported%20Languages
 [Contributing & Code of Conduct]: https://github.com/mrgargsir/wifi/wiki/Contributing-&-Code-of-Conduct
-[Merchandising Online Shop]: https://airgeddon.creator-spring.com/
+[Check others Repo]: https://github.com/mrgargsir
 [Changelog]: https://github.com/mrgargsir/wifi/wiki/Changelog
 [Disclaimer & License]: https://github.com/mrgargsir/wifi/wiki/Disclaimer%20&%20License
 [Contact]: https://github.com/mrgargsir/wifi/wiki/Contact
 [Hat Tip To]: https://github.com/mrgargsir/wifi/wiki/Hat%20Tip%20To
-[Inspiration]: https://github.com/mrgargsir/wifi/wiki/Inspiration
-[Extra commands]: https://github.com/mrgargsir/wifi/wiki/Extra%20commands
 
+[Extra commands]: https://github.com/mrgargsir/wifi/wiki/Extra%20commands
 [Version-shield]: https://img.shields.io/badge/version-11.50-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Latest version"
 [Bash4.2-shield]: https://img.shields.io/badge/bash-4.2%2B-blue.svg?style=flat-square&colorA=273133&colorB=00db00 "Bash 4.2 or later"
 [License-shield]: https://img.shields.io/badge/license-GPL%20v3%2B-blue.svg?style=flat-square&colorA=273133&colorB=bd0000 "GPL v3+"
